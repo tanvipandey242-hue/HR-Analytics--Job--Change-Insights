@@ -47,7 +47,7 @@ Dataset Columns Used
 - target
 
 Dashboard Preview
-![HR Analytics Dashboard]hr_dashboard.png
+![HR Analytics Dashboard].hr_dashboard.png
 
 "HR Analytics Dashboard" (HR_Analytics_Dashboard.png)
 
