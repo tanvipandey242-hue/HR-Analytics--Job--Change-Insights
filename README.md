@@ -1,36 +1,44 @@
-HR Analytics Job Change Insights Dashboard
+# HR Analytics Job Change Insights Dashboard
 
-Project Overview
+## 📌 Project Overview
 
-This project is an interactive Power BI dashboard created to analyze candidate profiles and job change patterns.
+The **HR Analytics Job Change Insights Dashboard** is an interactive Power BI project designed to analyze candidate profiles and identify job change patterns.
 
-The dashboard helps understand how factors such as work experience, relevant experience, company size, city development index, last job change, and job change intent are connected.
+This dashboard helps understand how factors such as work experience, relevant experience, company size, city development index, last job change, and job change intent are connected.
 
-Dashboard Features
+---
 
-- Total candidate overview
-- Candidates by relevant experience
-- Average city development index by company size
-- Candidates by last job change
-- Job change intent distribution
-- Experience slicer for interactive filtering
+## 🚀 Dashboard Features
 
-Key Insights
+- Total Candidate Overview
+- Candidates by Relevant Experience
+- Average City Development Index by Company Size
+- Candidates by Last Job Change
+- Job Change Intent Distribution
+- Interactive Experience Slicer
 
-- Candidate profiles can be explored based on experience and relevant work experience.
-- Company size groups can be compared using average city development index.
-- The dashboard shows the distribution of candidates based on their last job change.
-- The experience slicer helps compare patterns across different experience groups.
-- Job change intent helps identify candidates who may be looking for new opportunities.
+---
 
-Tools Used
+## 📊 Key Insights
+
+- Analyze candidates based on work experience and relevant experience.
+- Compare company size using average city development index.
+- Understand candidate distribution by last job change.
+- Filter data dynamically using the experience slicer.
+- Identify candidates likely to switch jobs.
+
+---
+
+## 🛠️ Tools & Technologies Used
 
 - Power BI
 - Power Query
 - DAX
 - Excel / CSV Dataset
 
-Dataset Columns Used
+---
+
+## 📂 Dataset Columns
 
 - enrollee_id
 - city
@@ -46,11 +54,40 @@ Dataset Columns Used
 - training_hours
 - target
 
-Dashboard Preview
-![HR Analytics Dashboard].hr_dashboard.png
+---
 
-"HR Analytics Dashboard" (HR_Analytics_Dashboard.png)
+## 🖼️ Dashboard Preview
 
-Author
+![HR Analytics Dashboard](hr_dashboard.png)
 
-Tanvi Pandey
+---
+
+## ✨ Project Highlights
+
+- Interactive Dashboard
+- Data Cleaning using Power Query
+- DAX Measures
+- Dynamic Slicers
+- HR Analytics Insights
+- Business-Oriented Visualizations
+
+---
+
+## 📚 Learning Outcomes
+
+- Data Cleaning
+- Data Visualization
+- Power Query
+- DAX
+- Interactive Dashboard Design
+- Business Intelligence
+
+---
+
+## 👩‍💻 Author
+
+**Tanvi Pandey**
+
+BCA (Data Science & Artificial Intelligence)
+
+Aspiring Data Analyst
